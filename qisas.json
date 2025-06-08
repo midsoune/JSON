@@ -1,202 +1,303 @@
+INFO  [Sun, 08 Jun 2025 00:10:09 GMT]:  updated plugin - 'quran-all.js'
 [
-    {
-        "story": "آدم عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/001.htm"
-    },
-    {
-        "story": "هود عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/002.htm"
-    },
-    {
-        "story": "إسماعيل عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/003.htm"
-    },
-    {
-        "story": "أيوب عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/004.htm"
-    },
-    {
-        "story": "أنبياء أهل القرية",
-        "link": "https://www.islamguiden.com/profeter/005.htm"
-    },
-    {
-        "story": "سليمان عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/006.htm"
-    },
-    {
-        "story": "زكريا عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/007.htm"
-    },
-    {
-        "story": "شيث عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/008.htm"
-    },
-    {
-        "story": "صالح عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/009.htm"
-    },
-    {
-        "story": "إسحاق عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/010.htm"
-    },
-    {
-        "story": "ذو الكفل عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/011.htm"
-    },
-    {
-        "story": "قصة موسى وهارون عليهما السلام",
-        "link": "https://www.islamguiden.com/profeter/012.htm"
-    },
-    {
-        "story": "قصة موسى وهارون عليهما السلام الجزء الأول",
-        "link": "https://www.islamguiden.com/profeter/013.htm"
-    },
-    {
-        "story": "قصة موسى وهارون عليهما السلام الجزء الثاني",
-        "link": "https://www.islamguiden.com/profeter/014.htm"
-    },
-    {
-        "story": "قصة موسى وهارون عليهما السلام الجزء الثالث",
-        "link": "https://www.islamguiden.com/profeter/015.htm"
-    },
-    {
-        "story": "قصة موسى وهارون عليهما السلام الجزء الرابع",
-        "link": "https://www.islamguiden.com/profeter/016.htm"
-    },
-    {
-        "story": "إلياس عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/017.htm"
-    },
-    {
-        "story": "يحيى عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/018.htm"
-    },
-    {
-        "story": "إدريس عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/019.htm"
-    },
-    {
-        "story": "إبراهيم عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/020.htm"
-    },
-    {
-        "story": "يعقوب عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/021.htm"
-    },
-    {
-        "story": "يونس عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/022.htm"
-    },
-    {
-        "story": "يوشع بن نون عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/023.htm"
-    },
-    {
-        "story": "اليسع عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/024.htm"
-    },
-    {
-        "story": "عيسى عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/025.htm"
-    },
-    {
-        "story": "نوح عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/026.htm"
-    },
-    {
-        "story": "هود عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/027.htm"
-    },
-    {
-        "story": "إسماعيل عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/028.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 1",
-        "link": "https://www.islamguiden.com/profeter/029.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 2",
-        "link": "https://www.islamguiden.com/profeter/030.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 3",
-        "link": "https://www.islamguiden.com/profeter/031.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 4",
-        "link": "https://www.islamguiden.com/profeter/032.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 5",
-        "link": "https://www.islamguiden.com/profeter/033.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 6",
-        "link": "https://www.islamguiden.com/profeter/034.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 7",
-        "link": "https://www.islamguiden.com/profeter/035.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 8",
-        "link": "https://www.islamguiden.com/profeter/036.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 9",
-        "link": "https://www.islamguiden.com/profeter/037.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 10",
-        "link": "https://www.islamguiden.com/profeter/038.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 11",
-        "link": "https://www.islamguiden.com/profeter/039.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 12",
-        "link": "https://www.islamguiden.com/profeter/040.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 13",
-        "link": "https://www.islamguiden.com/profeter/041.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 14",
-        "link": "https://www.islamguiden.com/profeter/042.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 15",
-        "link": "https://www.islamguiden.com/profeter/043.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 16",
-        "link": "https://www.islamguiden.com/profeter/044.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 17",
-        "link": "https://www.islamguiden.com/profeter/045.htm"
-    },
-    {
-        "story": "يوسف عليه السلام المشهد 18",
-        "link": "https://www.islamguiden.com/profeter/046.htm"
-    },
-    {
-        "story": "شعيب عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/047.htm"
-    },
-    {
-        "story": "داؤود عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/048.htm"
-    },
-    {
-        "story": "عزيز عليه السلام",
-        "link": "https://www.islamguiden.com/profeter/049.htm"
-    },
-    {
-        "story": "محمد صلى الله عليه وسلم",
-        "link": "https://www.islamguiden.com/profeter/050.htm"
-    }
+  {
+    story: 'مُعجِزة صالح عليه السّلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%b5%d8%a7%d9%84%d8%ad-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة إبراهيم عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزات موسى عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a7%d8%aa-%d9%85%d9%88%d8%b3%d9%89-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزات عيسى عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a7%d8%aa-%d8%b9%d9%8a%d8%b3%d9%89-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزات النبي محمد صلى الله عليه وسلم‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%a8%d9%8a-%d9%85%d8%ad%d9%85%d8%af-%d8%b5%d9%84%d9%89-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d9%88%d8%b3%d9%84%d9%85'
+  },
+  {
+    story: 'مختصر قصة موسى عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%ae%d8%aa%d8%b5%d8%b1-%d9%82%d8%b5%d8%a9-%d9%85%d9%88%d8%b3%d9%89-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة آدم عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%a2%d8%af%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'ترتيب انبياء الله ورسله‎',
+    link: 'https://y3ni.com/%d8%aa%d8%b1%d8%aa%d9%8a%d8%a8-%d8%a7%d9%86%d8%a8%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%b1%d8%b3%d9%84%d9%87'
+  },
+  {
+    story: 'معجزة ادريس عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%a7%d8%af%d8%b1%d9%8a%d8%b3-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة اسماعيل عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة اسحاق عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%a7%d8%b3%d8%ad%d8%a7%d9%82-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة لوط عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d9%84%d9%88%d8%b7-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة يعقوب عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d9%8a%d8%b9%d9%82%d9%88%d8%a8-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة داوود عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%af%d8%a7%d9%88%d9%88%d8%af-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة يونس نبي الله عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d9%8a%d9%88%d9%86%d8%b3-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة سليمان عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة عزير عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%b9%d8%b2%d9%8a%d8%b1-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة زكريا عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d8%b2%d9%83%d8%b1%d9%8a%d8%a7-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'معجزة نبي الله يحيى عليه السلام‎',
+    link: 'https://y3ni.com/%d9%85%d8%b9%d8%ac%d8%b2%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%ad%d9%8a%d9%89-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قـابـيـل وهـابيـل‎',
+    link: 'https://y3ni.com/%d9%82%d9%80%d8%a7%d8%a8%d9%80%d9%8a%d9%80%d9%84-%d9%88%d9%87%d9%80%d8%a7%d8%a8%d9%8a%d9%80%d9%84'
+  },
+  {
+    story: 'قصص الأنبياء والرسل كاملة‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d9%8a%d8%a7%d8%a1-%d8%ad%d8%b3%d8%a8-%d8%aa%d8%b1%d8%aa%d9%8a%d8%a8-%d8%a7%d9%86%d8%a8%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84%d9%84%d9%87'
+  },
+  {
+    story: 'قصة محمد نبي الله ورسوله عليه الصلاة والسلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%85%d8%ad%d9%85%d8%af-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%b1%d8%b3%d9%88%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d8%a9-%d9%88%d8%a7'
+  },
+  {
+    story: 'قصة عيسى ابن مريم (الجزء الثاني)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b9%d9%8a%d8%b3%d9%89-%d8%a7%d8%a8%d9%86-%d9%85%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a'
+  },
+  {
+    story: 'قصة عيسى المسيح بن مريم عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b9%d9%8a%d8%b3%d9%89-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad-%d8%a8%d9%86-%d9%85%d8%b1%d9%8a%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة عزير نبي الله عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b9%d8%b2%d9%8a%d8%b1-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة وفاة زكريا ويحيى عليهما السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%88%d9%81%d8%a7%d8%a9-%d8%b2%d9%83%d8%b1%d9%8a%d8%a7-%d9%88%d9%8a%d8%ad%d9%8a%d9%89-%d8%b9%d9%84%d9%8a%d9%87%d9%85%d8%a7-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة نبي الله زكريا عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b2%d9%83%d8%b1%d9%8a%d8%a7-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة نبي الله يحيى عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%ad%d9%8a%d9%89-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة سليمان عليه السلام (الجزء الرابع)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9'
+  },
+  {
+    story: 'قصة سليمان عليه السلام (الجزء الثالث)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab'
+  },
+  {
+    story: 'قصة سليمان عليه السلام (الجزء الثاني)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a'
+  },
+  {
+    story: 'قصة سيدنا سليمان عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b3%d9%8a%d8%af%d9%86%d8%a7-%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة داوود عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%af%d8%a7%d9%88%d9%88%d8%af-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة شمعون نبي الله عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b4%d9%85%d8%b9%d9%88%d9%86-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة اليسع نبي الله عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d9%8a%d8%b3%d8%b9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة إلياس نبي الله عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a5%d9%84%d9%8a%d8%a7%d8%b3-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة يوشع نبي الله‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b4%d8%b9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87'
+  },
+  {
+    story: 'قصة هارون عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%87%d8%a7%d8%b1%d9%88%d9%86-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء 12)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%89-%d8%b9%d8%b4%d8%b1'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء 11)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ad%d8%a7%d8%af%d9%89-%d8%b9%d8%b4%d8%b1'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء العاشر)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء التاسع)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء الثامن)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء السابع)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء السادس)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء الخامس)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء الرابع)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء الثالث)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء الثانى)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%89'
+  },
+  {
+    story: 'قصة نبي الله موسى (الجزء الأول)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%85%d9%88%d8%b3%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a3%d9%88%d9%84'
+  },
+  {
+    story: 'قصة أصحاب الرس ونبي الله حنظلة ابن صفوان‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a3%d8%b5%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d8%b1%d8%b3-%d9%88%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%ad%d9%86%d8%b8%d9%84%d8%a9-%d8%a7%d8%a8%d9%86-%d8%b5%d9%81%d9%88%d8%a7'
+  },
+  {
+    story: 'قصة أصحاب القرية وأنبيائهم الثلاثة‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a3%d8%b5%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%82%d8%b1%d9%8a%d8%a9-%d9%88%d8%a3%d9%86%d8%a8%d9%8a%d8%a7%d8%a6%d9%87%d9%85-%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a9'
+  },
+  {
+    story: 'قصة نبي الله شعيب عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b4%d8%b9%d9%8a%d8%a8-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة يونس بن متى عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d9%86%d8%b3-%d8%a8%d9%86-%d9%85%d8%aa%d9%89-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة ذا الكفل نبي الله عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b0%d8%a7-%d8%a7%d9%84%d9%83%d9%81%d9%84-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة أيوب عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a3%d9%8a%d9%88%d8%a8-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة يوسف عليه السلام (الجزء الخامس)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d9%81-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3'
+  },
+  {
+    story: 'قصة يوسف عليه السلام (الجزء الرابع)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d9%81-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9'
+  },
+  {
+    story: 'قصة يوسف عليه السلام (الجزء الثالث)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d9%81-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab'
+  },
+  {
+    story: 'قصة يوسف عليه السلام (الجزء الثاني)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d9%81-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a'
+  },
+  {
+    story: 'قصة يوسف عليه السلام (الجزء الأول)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%8a%d9%88%d8%b3%d9%81-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%a3%d9%88%d9%84'
+  },
+  {
+    story: 'قصة النبي شيث عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d9%86%d8%a8%d9%8a-%d8%b4%d9%8a%d8%ab-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة نبي الله يعقوب عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%86%d8%a8%d9%8a-%d8%a7%d9%84%d9%84%d9%87-%d9%8a%d8%b9%d9%82%d9%88%d8%a8'
+  },
+  {
+    story: 'قصة اسحاق عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a7%d8%b3%d8%ad%d8%a7%d9%82-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة اسماعيل عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة ابراهيم عليه السلام (الجزء الرابع)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9'
+  },
+  {
+    story: 'قصة ابراهيم عليه السلام (الجزء الثالث)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab'
+  },
+  {
+    story: 'قصة إبراهيم عليه السلام (الجزء الثاني)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a'
+  },
+  {
+    story: 'قصة أبو الأنبياء إبراهيم عليه السلام (الجزء الأول)‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a3%d8%a8%d9%88-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d9%8a%d8%a7%d8%a1-%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85'
+  },
+  {
+    story: 'قصة لوط عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%84%d9%88%d8%b7-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة صالح عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b5%d8%a7%d9%84%d8%ad-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة هود عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d9%87%d9%88%d8%af-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة سيدنا نوح عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b3%d9%8a%d8%af%d9%86%d8%a7-%d9%86%d9%88%d8%ad-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة إدريس عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%a5%d8%af%d8%b1%d9%8a%d8%b3-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  },
+  {
+    story: 'قصة سيدنا آدم عليه السلام‎',
+    link: 'https://y3ni.com/%d9%82%d8%b5%d8%a9-%d8%b3%d9%8a%d8%af%d9%86%d8%a7-%d8%a2%d8%af%d9%85-%d8%b9%d9%84%d9%8a%d9%87-%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85'
+  }
 ]
