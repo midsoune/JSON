@@ -1,8 +1,4 @@
-{
-  "license": "(MIT) Sutan Nasution <sutan.gnst@gmail.com>",
-  "source": "https://github.com/sutanlab/quran-api",
-  "audioEdition": "Syekh. Mishary Rashid Al-Afasy",
-  "data": [
+[
     {
       "number": 1,
       "sequence": 5,
@@ -119969,5 +119965,4 @@
         }
       ]
     }
-  ]
-}
+]
