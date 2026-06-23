@@ -1,0 +1,16 @@
+{
+  "name": "Pain",
+  "short_name": "Pain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/cc9J8HV1/vignette-recette-pain-oriental.jpg",
+      "sizes": "600x00",
+      "type": "image/jpg"
+    }
+  ]
+}
